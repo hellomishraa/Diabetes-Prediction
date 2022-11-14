@@ -9,3 +9,4 @@ In this project i used Pima Indians Diabetes Database from Kaggle. This dataset 
 # MODEL USED:
 I tried different models and compare the accuracy for each. Then, I performed Hyperparameter Tuning on Models that has high accuracy. I have used Support Vector Machine Model for the prediction of Diabetes.
 ![image](https://user-images.githubusercontent.com/113938735/201736405-429398f7-bb53-40f2-a52b-7052ed3dad79.png)
+In the Support Vector Machine Model, as we train the Machine Learning Model with the Data the Support Vector Machine Model after training the data it identifies a hyperplane and divide it into Positive and Negative hyperplane.
